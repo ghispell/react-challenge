@@ -18,7 +18,7 @@ function Navbar({cart}){
             <div className='navRight'>
                 <div className='cartNavDiv'>
                 <img src="image/cart.png" alt="cart" className='cartNav'/>
-                <p>{cart.length} article(s)</p>
+                <p>{cart.length-1} article(s)</p>
                 <p>{price} €</p>
                 </div>
             
