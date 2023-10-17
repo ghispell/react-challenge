@@ -2,7 +2,12 @@ import './Card.css'
 
 
 
-function Card({id, title, img, description, price, category}){
+function Card({id, title, img, description, price, category, setCartChild, cartChild}){
+
+    const handleClickCart = (cartItem) =>{
+        setCartChild([...cartChild, cartItem]);
+    }
+
     return(
      
         <div className="itemContainer">
@@ -19,10 +24,10 @@ function Card({id, title, img, description, price, category}){
                 <p>{category}</p>
             </div>
             <div className="itemPrice">
-                <p>{price}</p>
+                <p>{price}€/kg</p>
             </div>
             <div>
-                <p>Ajouter au panier <img src="image/cart.png" alt="cart" className='cart'/></p>
+                <button onClick={() => handleClickCart(price)}>Ajouter au panier <img src="image/cart.png" alt="cart" className='cart'/></button>
             </div>
 
 

@@ -4,7 +4,7 @@
         "title": "Oranges",
         "img": "image/orange.png",
         "description" : "Des magnifiques oranges Corse, sucrées par le soleil de l'île de beauté !",
-        "price": "3,99€/kg",
+        "price": "3.99",
         "category": "Fruit"
 
     },
@@ -13,7 +13,7 @@
         "title": "Pommes",
         "img": "image/pomme.png",
         "description" : "Ces belles pommes normandes offre de multiples possibilités gustatives, à vous de les découvrir !  ",
-        "price": "2,99€/kg",
+        "price": "2.99",
         "category": "Fruit"
 
     },
@@ -22,7 +22,7 @@
         "title": "Fraises",
         "img": "image/fraise.png",
         "description" : " Le soleil et la douceur du climat landais sont des avantages pour la culture de fraisiers, profitez en !",
-        "price": "4,50€/kg",
+        "price": "4.50",
         "category": "Fruit"
 
     },
@@ -31,7 +31,7 @@
         "title": "Cerises",
         "img": "image/cerise.png",
         "description" : "Pour des clafoutis ou à picorer, ces cerises vous régalerons !",
-        "price": "7,99€/kg",
+        "price": "7.99",
         "category": "Fruit"
 
     },
@@ -40,7 +40,7 @@
         "title": "Tomates",
         "img": "image/tomate.png",
         "description" : "De bonnes tomates fraîches à déguster ou à lancer sur des bardes peu doués.",
-        "price": "2,99€/kg",
+        "price": "2.99",
         "category": "Légume"
 
     },
@@ -49,7 +49,7 @@
         "title": "Courgettes",
         "img": "image/courgette.png",
         "description" : "Quand on cours et qu'on les jettes, ça en fait des courgettes.",
-        "price": "1,59€/kg",
+        "price": "1.59",
         "category": "Légume"
 
     },
@@ -58,7 +58,7 @@
         "title": "Brocolis",
         "img": "image/brocoli.png",
         "description" : "Même si Homer est mort en mangeant un brocoli, les nôtres ne vous reserveront pas le même sort. Ou peut être que si. ",
-        "price": "3,79€/kg",
+        "price": "3.79",
         "category": "Légume"
 
     },
@@ -67,7 +67,7 @@
         "title": "Pommes de terre",
         "img": "image/pdt.png",
         "description" : "C'est tellement pas cher qu'on pourrait en manger tout le temps ! Et en plus c'est bon !",
-        "price": "0,89€/kg",
+        "price": "0.89",
         "category": "Légume"
 
     },
@@ -76,7 +76,7 @@
         "title": "Poivrons",
         "img": "image/poivron.png",
         "description" : "C'est un piment qui ressemble à un piment mais qui pique pas comme un piment. Enfin il paraît. ",
-        "price": "2,39€/kg",
+        "price": "2.39",
         "category": "Légume"
 
     },
@@ -85,7 +85,7 @@
         "title": "Raisins",
         "img": "image/raisin.png",
         "description" : "Si vous les laissez un peu au chaud pendant un moment, vous pourrez en faire de la bonne piquette !",
-        "price": "6,99€/kg",
+        "price": "6.99",
         "category": "Fruit"
 
     },
@@ -94,7 +94,7 @@
         "title": "Myrtilles",
         "img": "image/myrtille.png",
         "description" : "Je commence à être à cours d'idées, du coup là c'est juste des myrtilles. ",
-        "price": "12,99€/kg",
+        "price": "12.99",
         "category": "Fruit"
 
     }

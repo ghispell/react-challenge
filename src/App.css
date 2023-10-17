@@ -13,9 +13,24 @@
 .logo {
   height: 6em;
   padding: 1.5em;
+}
+
+.navLeft{
+  display: flex;
+  flex: 1;
+  justify-self : flex-start;
+
+}
+
+.navRight{
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
 
 
 }
+
+
 
 .navbar{
   display: flex;
@@ -25,6 +40,7 @@
 .navbar h2{
   display: flex;
   align-items: center;
+
 }
 .cartNav{
   height: 3.5rem;
@@ -36,7 +52,10 @@
   align-items: center;
   gap: 3rem;
 }
-
+.cartNavDiv{
+  display: flex;
+  gap: 1rem;
+}
 .footer{
   display: flex;
   justify-content: center;
@@ -73,4 +92,10 @@
   flex-wrap: wrap;
 
 
+}
+
+.filterButton{
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
 }
